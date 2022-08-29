@@ -1,0 +1,15 @@
+D:\skola\GitHub\HelloWorld\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.exe
+D:\skola\GitHub\HelloWorld\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.deps.json
+D:\skola\GitHub\HelloWorld\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.runtimeconfig.json
+D:\skola\GitHub\HelloWorld\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.dll
+D:\skola\GitHub\HelloWorld\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.pdb
+D:\skola\GitHub\HelloWorld\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.csproj.AssemblyReference.cache
+D:\skola\GitHub\HelloWorld\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\skola\GitHub\HelloWorld\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.AssemblyInfoInputs.cache
+D:\skola\GitHub\HelloWorld\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.AssemblyInfo.cs
+D:\skola\GitHub\HelloWorld\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\skola\GitHub\HelloWorld\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.dll
+D:\skola\GitHub\HelloWorld\MyFirstApp\MyFirstApp\obj\Debug\net6.0\refint\MyFirstApp.dll
+D:\skola\GitHub\HelloWorld\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.pdb
+D:\skola\GitHub\HelloWorld\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.genruntimeconfig.cache
+D:\skola\GitHub\HelloWorld\MyFirstApp\MyFirstApp\obj\Debug\net6.0\ref\MyFirstApp.dll
